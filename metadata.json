@@ -1,0 +1,6 @@
+{
+  "name": "Maruichi Souko Logistics Platform",
+  "description": "B2B Logistics & Fleet Management System for Maruichi Souko (Shipper), Shinwa (Carrier), Sub-contractors, and Drivers. Supports Japanese and English localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
